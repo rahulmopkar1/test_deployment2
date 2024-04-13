@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on TechEd for Kids</title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content in Portfolios on TechEd for Kids</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beginner Courses</title>
+      <link>http://localhost:1313/portfolio/worky1/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/worky1/</guid>
+      <description>&lt;p&gt;Ideal for kids aged between 5-8. Course walks through block coding and solving problems with code.&lt;/p&gt;&#xA;&lt;p&gt;Batch starts 4th Dec!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Intermediate Courses</title>
+      <link>http://localhost:1313/portfolio/worky2/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/worky2/</guid>
+      <description>&lt;p&gt;Ideal for kids aged between 8-12. Course steps up kids into writing real applications.&lt;/p&gt;&#xA;&lt;p&gt;Batch starts 4th Dec&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Advanced courses</title>
+      <link>http://localhost:1313/portfolio/worky3/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/worky3/</guid>
+      <description>&lt;p&gt;The course is children who have gone through the intermediate course and is aimed at getting kids to write real world applications using languages and tools used in the industry..&lt;/p&gt;&#xA;&lt;p&gt;Batch starts 4th Dec!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Demo Tutorials</title>
+      <link>http://localhost:1313/portfolio/worky4/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/worky4/</guid>
+      <description>We are still working on adding these </description>
+    </item>
+    <item>
+      <title>What we are preparing you for</title>
+      <link>http://localhost:1313/portfolio/worky5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/worky5/</guid>
+      <description>Bachelor in Computer Science Bachelor in Information Technology </description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/portfolio/worky6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/worky6/</guid>
+      <description>We will add some notes soon! stay tuned! </description>
+    </item>
+    <item>
+      <title>Meet your teachers</title>
+      <link>http://localhost:1313/portfolio/worky7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/worky7/</guid>
+      <description>Ashok Magadum Senior Mentor ashok@codingforkids.org.au&#xA;SUMMARY OF ACTIVITIES/INTERESTS - Computer Networking&#xD;- Computer Security&#xD;- Human Computer Interfacing&#xD;Brad Hawkes Senior Mentor brad@codingforkids.org.au&#xA;SUMMARY OF ACTIVITIES/INTERESTS - Software Security&#xD;- Computer Science&#xD;- Human Computer Interfacing&#xD;Karan Kapoor Program Admin karan@codingforkids.org.au&#xA;SUMMARY OF ACTIVITIES/INTERESTS - Computers&#xD;- Video Editing&#xD;- Motion Design&#xD;- Animation&#xD;Monu Program Admin monu@codingforkids.org.au&#xA;SUMMARY OF ACTIVITIES/INTERESTS - Computer Networking&#xD;- Computer Security&#xD;- Human Computer Interfacing&#xD;Srini Vasudevan Senior Mentor srini@codingforkids.</description>
+    </item>
+  </channel>
+</rss>
