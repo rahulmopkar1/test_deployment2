@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/formal goku.jpg"
+image = "img/portfolio/"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "What we are preparing you for"
