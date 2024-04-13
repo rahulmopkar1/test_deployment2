@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://public/'
 languageCode = 'en-us'
 title = 'TechEd for Kids'
 theme = 'exampleSite'
