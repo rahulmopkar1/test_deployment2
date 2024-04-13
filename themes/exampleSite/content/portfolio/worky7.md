@@ -6,6 +6,7 @@ title = "Meet your teachers"
 draft = false
 weight = 7
 +++
+<!--more-->
 
 ## Ashok Magadum
 
