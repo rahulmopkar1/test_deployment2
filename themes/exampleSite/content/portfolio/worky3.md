@@ -65,5 +65,6 @@ When she reached the first hills of the Italic Mountains, she had a last view ba
 The cost of the program is $130 per child for the entire duration of the course.
 
 We are an approve Creative Kids Service Provider in NSW and the vouchers can be used for the course fee
+
 {{< button value="Enroll" class="btn btn-ghost">}}
 {{< button2 value="Register for a demo" class="btn btn-ghost">}}

@@ -10,7 +10,7 @@
          {{ partial "social_buttons_in_contact.html" . }}
          {{ with .Site.Params.email }}
          <h4>Drop me a line, maybe?</h4>
-         <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/{{ . }}">
+         <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/f/mrgnreqv">
            <div class="controls">
              <div class="form-group">
                <label for="name">Your name *</label>
@@ -21,7 +21,36 @@
                <input type="email" name="email" id="email" required="required" class="form-control">
              </div>
              <div class="form-group">
-               <label for="message">Your message for me *</label>
+              <label for="name">Your phone number *</label>
+              <input type="text" name="name" id="name" required="required" class="form-control">
+            </div>
+            <div class="form-group">
+              <label for="name">Child's full name *</label>
+              <input type="text" name="name" id="name" required="required" class="form-control">
+            </div>
+            <div class="form-group">
+              <label for="day">Date of birth:</label>
+              <input type="date" id="birthday" name="birthday">
+            </div>
+            <div class="form-group">
+              <legend>Gender:</legend>
+                <label for="male">Male</label>
+                <input type="radio" name="gender" id="male" value="male" checked>
+                <label for="female">Female</label>
+                <input type="radio" name="gender" id="female" value="female">
+              </div>
+              <div class="form-group">
+                <legend>Course the child will be participating in</legend>
+                  <label for="male">Beginner (ideal for 6.5 to 8.5)</label>
+                  <input type="radio" name="gender" id="male" value="male" checked>
+                  <label for="female">Intermediate (ideal for 8.5 to 11)</label>
+                  <input type="radio" name="gender" id="female" value="female">
+                  <label for="female">Advanced (ideal for 8.5 to 11)</label>
+                  <input type="radio" name="gender" id="female" value="female">
+                </div>
+        
+             <div class="form-group">
+               <label for="message">Your message for  *</label>
                <textarea rows="4" name="message" id="message" required="required" class="form-control"></textarea>
              </div>
              <div>
