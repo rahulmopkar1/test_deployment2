@@ -41,14 +41,27 @@
               </div>
               <div class="form-group">
                 <legend>Course the child will be participating in</legend>
-                  <label for="male">Beginner (ideal for 6.5 to 8.5)</label>
-                  <input type="radio" name="gender" id="male" value="male" checked>
-                  <label for="female">Intermediate (ideal for 8.5 to 11)</label>
-                  <input type="radio" name="gender" id="female" value="female">
-                  <label for="female">Advanced (ideal for 8.5 to 11)</label>
-                  <input type="radio" name="gender" id="female" value="female">
+                  <div><label for="Beginner">Beginner (ideal for 6.5 to 8.5)</label>
+                  <input type="radio" name="Course" id="Beginner" value="Beginner" checked></div>
+                  <div><label for="Intermediate">Intermediate (ideal for 8.5 to 11)</label>
+                  <input type="radio" name="Course" id="Intermediate" value="Intermediate"></div>
+                  <div><label for="Advanced">Advanced (ideal for 8.5 to 11)</label>
+                  <input type="radio" name="Course" id="Advanced" value="Advanced"></div>
                 </div>
-        
+                <div class="form-group">
+                  <legend>Select your preferred time slot (you can select more than one). 
+                    Note: We will contact you regarding the dates when they are made available. MONDAY BOOKED OUT</legend>
+                    <div><label for="Monday">Monday 6.30 PM to 7:30 PM</label>
+                    <input type="checkbox" name="day" id="Monday" value="Monday" checked></div>
+                    <div><label for="Tuesday">Tuesday 6.30 PM to 7:30 PM</label>
+                    <input type="checkbox" name="day" id="Tuesday" value="Tuesday"></div>
+                    <div><label for="Wednesday">Wednesday 6:30 PM to 7:30 PM</label>
+                    <input type="checkbox" name="day" id="Wednesday" value="Wednesday"></div>
+                    <div><label for="Thursday">Thursday 6.30 PM to 7:30 PM</label>
+                      <input type="checkbox" name="day" id="Thursday" value="Thursday"></div>
+                      <div><label for="Friday">Advanced (ideal for 8.5 to 11)</label>
+                        <input type="checkbox" name="day" id="Friday" value="Friday"></div>
+                  </div>
              <div class="form-group">
                <label for="message">Your message for  *</label>
                <textarea rows="4" name="message" id="message" required="required" class="form-control"></textarea>
